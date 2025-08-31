@@ -1,0 +1,6 @@
+opencv-python
+pandas
+cvzone
+numpy
+ultralytics
+firebase_admin
