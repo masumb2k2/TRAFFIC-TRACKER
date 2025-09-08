@@ -1,4 +1,4 @@
-# 🚦 TRAFFIC TRACKER : Real-Time Vehicle Detection & Counting
+8# 🚦 TRAFFIC TRACKER : Real-Time Vehicle Detection & Counting
 
 Unleash the power of **Artificial Intelligence** and **Computer Vision** for *real-time traffic management*. This project is not just a demo; it's a **battle-tested solution** for automated vehicle counting, traffic analytics, and law enforcement. Enter the era of smart cities—**NO COMPROMISES.**
 
@@ -24,7 +24,7 @@ Unleash the power of **Artificial Intelligence** and **Computer Vision** for *re
 ## 🔥 Installation
 
 1. **Clone the repo**  
-git clone https://github.com/yourusername/traffic-tracker.git
+git clone https://github.com/masumb2k2/traffic-tracker.git
 
 3. **Install Dependencies**  
 
